@@ -4,7 +4,7 @@ import requests
 import json
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot = telebot.TeleBot('6683417791:AAGQsF4DpPuOcGWmSj1d3Ls3cIBbdymbvHI')
+bot = telebot.TeleBot('ENTER_YOUR_KEY')
 
 # Create a dictionary to store user roles and states
 user_data = {}
