@@ -1,15 +1,15 @@
 # NASAspaceappsOpenMarketPlaceSol
 The following is our solution to the open marketplace problem from the NASAspaceapps challenge 2023
 
-Uses (prerequisites):
+# Uses (prerequisites):
 1) Python
 2) Sunbird-RC
 
 
-High-Level Summary
+# High-Level Summary:
 In the current world, with an abundancy of fake resumes & certificates/credentials, there exists 2 problems: 1) The genuine profiles get drowned out in a sea of fakes 2) The onus of weeding through the hundreds of profiles falls on the project providers This problem arises due to: 1) Most profiles/resumes being copied from a common template (all resumes/profiles are homogenized). This problem is only an exasperated by the fact that: 2) Most fake certificates, and achievements of skill, look the same as the genuine ones (no credibility) Our solution aims to solve this issue by introducing a system that automatically signs and ensures every entry, every certificate issued on the database is digitally signed and stored in a secure registry, while making this open source and interoperable with nearly any data format/schema (via the use of Sunbird-RC)
 
-Project Summary
+# Project Summary:
 As mentioned, our solution aims to solve this issue by introducing a system that automatically signs and ensures every entry, every certificate issued on the database is digitally signed and stored in a secure registry, while making this open source and interoperable with nearly any data format/schema (via the use of Sunbird-RC)
 
 
